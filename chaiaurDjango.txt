@@ -1,0 +1,7 @@
+Documentation for Chai-Django Project
+
+Chai aur Django
+https://www.youtube.com/watch?v=j6szNSzw4BU&list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy
+
+
+https://docs.chaicode.com/youtube/chai-aur-django/getting-started/
