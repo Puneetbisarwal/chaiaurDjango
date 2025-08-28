@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block content %}
+test content for forms
+    <h1>Chai Stores</h1>
+    <ul>
+        {% for store in stores %}
+            <li>{{ store.name }} - {{ store.location }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
