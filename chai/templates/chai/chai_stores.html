@@ -3,6 +3,7 @@
 {% block content %}
 test content for forms
 <form method="POST">
-    {{form}}
+    {{form.as_p}}
+    <button type="submit">Search Store</button>
 </form>
 {% endblock %}
